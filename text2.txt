@@ -1,0 +1,9 @@
+// pure functions
+// mutations and side effects
+// higher order functions 
+// map filter and reduce
+// polyfill
+// closure
+// event loop and async architecture
+// setTimeout and setInterval
+// callbacks
